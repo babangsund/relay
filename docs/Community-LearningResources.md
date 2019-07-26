@@ -60,7 +60,7 @@ https://babangsund.com/relay_local_state_management/
 
 ## Relay Modern: Local State Management, part 2
 
-How to manage blobal state and localStorage persistence on the client, using Relay.
+How to manage global state and localStorage persistence on the client, using Relay.
 https://babangsund.com/relay_local_state_management_2/
 
 # Network Layer
